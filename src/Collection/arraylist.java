@@ -7,6 +7,7 @@ public class arraylist {//
 		ArrayList al=new ArrayList();
 		al.add("Anal");
 		al.add(100);
+		al.add(200);
         al.add('T');
 		al.add(null);
 		al.add(null);
